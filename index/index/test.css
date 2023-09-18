@@ -1,0 +1,50 @@
+
+
+.card-wrapper1{
+
+    display: flex;
+    margin: 50% 10%;
+    justify-content: space-around;
+
+}
+
+.card-wrapper2{
+
+    display: flex;
+    margin: 50% 10%;
+    justify-content: space-around;
+
+}
+
+
+
+.card{
+   
+    
+}
+
+a{
+    margin: 20px;
+    text-decoration: none;
+    color: #2B4141;
+    
+    
+}
+
+.arrow_btn{
+    color: black;
+    /* background-color: aqua; */
+}
+
+.carousel-control-prev-icon{
+    color: #2B4141;
+    background-color: black;
+}
+
+.icons{
+
+    color: #2B4141;
+    background-color: black;
+
+}
+
